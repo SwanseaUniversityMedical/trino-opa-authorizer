@@ -1,5 +1,11 @@
 # Changelog
 
+## [420-stackable0.2.0] - 2023-07-17
+
+### Changed
+
+- Bump Trino to 420 
+
 ## [414-stackable0.2.0] - 2023-05-26
 
 ### Fixed
